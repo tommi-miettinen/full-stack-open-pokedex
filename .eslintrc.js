@@ -1,3 +1,4 @@
+//eslint-disable-next-line
 module.exports = {
   env: {
     browser: true,
@@ -25,4 +26,4 @@ module.exports = {
     'no-console': 'error',
     'react/prop-types': 0,
   },
-};
+}
